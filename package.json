@@ -1,0 +1,17 @@
+{
+  "name": "cloudflare-workers-testing",
+  "version": "1.0.0",
+  "description": "Test a Cloudflare Worker from the command line",
+  "main": "index.js",
+  "bin": {
+    "upload-worker": "./bin/upload-worker.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
