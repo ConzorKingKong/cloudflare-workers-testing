@@ -7,7 +7,7 @@ The Workers Testing package allows you to upload your script to the cloudflarewo
 ### Install
 
 ```bash
-npm install workers-testing
+npm install --save-dev workers-testing
 ```
 
 ### Usage
